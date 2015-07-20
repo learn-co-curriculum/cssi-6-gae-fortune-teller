@@ -11,7 +11,7 @@ At the end of these exercises, you will have an App Engine application that perf
 
 ##Paths
 
-+ **Fortune Cookie**
+**Fortune Cookie**
 
 Path: /fortunecookie
 
@@ -22,7 +22,7 @@ Requirements:
 2. There shall be at least ten different fortunes.
 
 
-+ **Magic 8-Ball**
+**Magic 8-Ball**
 
 Path: /8ball
 
@@ -38,7 +38,7 @@ Requirements:
 
 5. Ten of the possible responses that the Magic 8‐ball can give shall be positive. Five of the possible responses that the Magic 8‐ball can give shall be negative. Five of the possible responses that the Magic 8‐ball can give shall be neutral. If you want, you can use the standard [responses](http://en.wikipedia.org/wiki/Magic_8_ball#Possible_answers).
 
-+ **Whirlybird**
+**Whirlybird**
 
 Path: /whirlybird
 
@@ -73,7 +73,7 @@ b. Each fortune shall be at least two sentences long.
 c. The sum of number the user selected and the number of letters in the color the user selected shall uniquely identify the fortune they receive. Which is to say, if that sum is equal for two different selections, the fortunes produced shall be the same.
 
 
-+ **Horoscopes**
+**Horoscopes**
 
 Path: /horoscope
 
@@ -96,7 +96,7 @@ their birthday.
 
 6. A user shall not be presented with the same horoscope two days in a row.
 
- **Tarot Cards**
+**Tarot Cards**
 
 Path: /tarot
 
