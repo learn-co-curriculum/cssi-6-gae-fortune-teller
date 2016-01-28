@@ -139,4 +139,4 @@ Extra Credit
 
 1. Update the horoscopes path so that the user selects their birthday from a calendar.
 
-<a href='https://learn.co/lessons/cssi-6-gae-fortune-teller' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-6-gae-fortune-teller' title='Fortune Teller Challenge'>Fortune Teller Challenge</a> on Learn.co and start learning to code for free.</p>
